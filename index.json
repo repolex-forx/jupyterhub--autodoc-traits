@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "autodoc-traits",
+  "versions": [
+    {
+      "commit": "339425f57a35c47a1435b0b3330749f3f1d7f1b8",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:49:19.705465+00:00"
+    }
+  ]
+}
