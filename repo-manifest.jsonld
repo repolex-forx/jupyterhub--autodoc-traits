@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/autodoc-traits/commit/339425f57a35c47a1435b0b3330749f3f1d7f1b8",
       "git:hexsha": "339425f57a35c47a1435b0b3330749f3f1d7f1b8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/autodoc-traits/commit/916417ff107e1e18349424cf0fc50c2a1f7780ab",
